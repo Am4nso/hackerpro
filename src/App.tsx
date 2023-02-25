@@ -1,4 +1,4 @@
-import {BrowserRouter, Routes, Route} from "react-router-dom";
+import {HashRouter, Routes, Route} from "react-router-dom";
 import Home from "./components/Home";
 import Join from "./components/Join";
 import React from "react";
@@ -8,7 +8,7 @@ import Shop from "./components/Shop";
 function App() {
 
     return (
-        <BrowserRouter>
+        <HashRouter>
             <React.Suspense fallback={"Loading"}>
                 <Routes>
                     <Route path={"/"} element={<Home/>}/>
@@ -18,7 +18,7 @@ function App() {
                 </Routes>
                 <p style={{color:"white"}}>Created by Osama Hussein - The Eagle</p>
             </React.Suspense>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 
