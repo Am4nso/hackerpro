@@ -257,3 +257,13 @@ Join
 .buy-button:hover {
   background-color: #fb9900;
 }
+
+.lesson {
+  padding: 0.5rem 5rem 0.5rem 0.5rem;
+  background-color: #023a58;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #012c41;
+}

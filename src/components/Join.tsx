@@ -19,7 +19,7 @@ const Join = () => {
                         <option>Zayed University</option>
                     </select>
                     <br/>
-                    <a style={{color: "white", textDecoration: "none", border: "1px solid white", padding: "0.5rem"}} href={"/practice"}>Submit</a>
+                    <Link style={{color: "white", textDecoration: "none", border: "1px solid white", padding: "0.5rem"}} to={"/practice"}>Submit</Link>
                 </div>
             </div>
         </div>

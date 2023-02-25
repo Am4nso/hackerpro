@@ -8,8 +8,10 @@ const PracticeNavigation = () => {
         <div className={"nav-bar"}>
             <div className={"right-nav"}>
                 <Link to={"/"} style={{color: "white", textDecoration: "none", fontWeight: 800, cursor: "pointer"}}>👾 Hacker Pro</Link>
-                <a style={{textDecoration: "none"}} className={"nav-button"} href={"/learn"}>Learn
-                </a>
+                <Link style={{textDecoration: "none"}} className={"nav-button"} to={"/learn"}>Learn
+                </Link>
+                <Link style={{textDecoration: "none"}} className={"nav-button"} to={"/practice"}>Practice
+                </Link>
             </div>
             <div style={{display: "flex", alignItems: "center", gap: "2rem"}}>
                 <Link style={{color: "white", textDecoration: "none"}} to={"/shop"}>Points: 500</Link>
