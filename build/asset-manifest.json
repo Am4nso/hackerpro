@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hackerpro/static/css/main.f66560db.css",
-    "main.js": "/hackerpro/static/js/main.8bf511fa.js",
+    "main.css": "/hackerpro/static/css/main.f2020144.css",
+    "main.js": "/hackerpro/static/js/main.863418b4.js",
     "static/js/787.c9db320a.chunk.js": "/hackerpro/static/js/787.c9db320a.chunk.js",
     "static/media/certificate-11547058452f58wqn0l2u-removebg-preview.png": "/hackerpro/static/media/certificate-11547058452f58wqn0l2u-removebg-preview.0f0d53c3f96a5083e95c.png",
     "static/media/png-clipart-magnetic-stripe-card-identity-document-access-control-credit-card-integrated-circuits-chips-credit-card-angle-rectangle-removebg-preview-removebg-preview.png": "/hackerpro/static/media/png-clipart-magnetic-stripe-card-identity-document-access-control-credit-card-integrated-circuits-chips-credit-card-angle-rectangle-removebg-preview-removebg-preview.3a89d757cfe70f04a54d.png",
     "index.html": "/hackerpro/index.html",
-    "main.f66560db.css.map": "/hackerpro/static/css/main.f66560db.css.map",
-    "main.8bf511fa.js.map": "/hackerpro/static/js/main.8bf511fa.js.map",
+    "main.f2020144.css.map": "/hackerpro/static/css/main.f2020144.css.map",
+    "main.863418b4.js.map": "/hackerpro/static/js/main.863418b4.js.map",
     "787.c9db320a.chunk.js.map": "/hackerpro/static/js/787.c9db320a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f66560db.css",
-    "static/js/main.8bf511fa.js"
+    "static/css/main.f2020144.css",
+    "static/js/main.863418b4.js"
   ]
 }

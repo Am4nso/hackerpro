@@ -14,9 +14,8 @@ const Navigation = () => {
                         onClick={() => document.getElementById('about')!.scrollIntoView()}>About
                 </button>
             </div>
-            <div>
                 <Link to={"/join"} style={{color: "white", textDecoration: "none"}} className={"join-now"}>Join Now</Link>
-            </div>
+
         </div>
     )
 }

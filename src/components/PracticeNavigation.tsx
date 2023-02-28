@@ -15,7 +15,6 @@ const PracticeNavigation = () => {
             </div>
             <div style={{display: "flex", alignItems: "center", gap: "2rem"}}>
                 <Link style={{color: "white", textDecoration: "none"}} to={"/shop"}>Points: 500</Link>
-                <Icon style={{fontSize: "2rem", cursor: "pointer"}} icon={uiUserProfile} />
             </div>
         </div>
     )
